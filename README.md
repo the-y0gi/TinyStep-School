@@ -4,7 +4,7 @@ A comprehensive web-based school management system designed to streamline admini
 
 ## 🌐 Live Demo
 
-[View Live Application](https://tiny-step-school-f1gq.vercel.app/)
+[View Live Application](https://tinystep-school-pre.vercel.app/)
 
 ## 📋 Features
 
