@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background -->
+  <rect x="5" y="5" width="90" height="90" rx="22" fill="#FF8A00"/>
+
+  <!-- Dot -->
+  <circle cx="72" cy="18" r="8" fill="#FFD000"/>
+
+  <!-- Text -->
+  <text
+    x="50%"
+    y="62%"
+    text-anchor="middle"
+    font-size="40"
+    font-family="Arial, Helvetica, sans-serif"
+    font-weight="700"
+    fill="white"
+  >
+    TS
+  </text>
+</svg>
